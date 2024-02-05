@@ -1,0 +1,1 @@
+This article is about how we should communicate with our group members and consumers when designing a website. It is important to make sketches, which are your "translator" when communicating with your partners and users.
