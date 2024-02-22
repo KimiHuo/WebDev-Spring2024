@@ -12,4 +12,4 @@ Midterm Project Proposal-Kimi Huo
 ![298076294030297566](https://github.com/KimiHuo/WebDev-Spring2024/assets/157533489/bc7a12ad-f536-4e89-92db-7c97c5c680d5)
 ![320565294560866413](https://github.com/KimiHuo/WebDev-Spring2024/assets/157533489/3e4e7641-7af8-4fac-93f3-5e92b1f14dce)
 ![598874070536589193](https://github.com/KimiHuo/WebDev-Spring2024/assets/157533489/738ee8fe-74db-4efd-84c2-a482f326bfee)
-
+https://cloud.protopie.io/p/bb37a0d312b9da9f65c00e30?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1&handoff=true
