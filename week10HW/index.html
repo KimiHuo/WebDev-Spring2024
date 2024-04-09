@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JS HW</title>
+<style>
+    img {
+        width: 50%;
+        margin-left: 350px;
+    }
+
+</style>
+
+  </head>
+  <body>
+
+    
+    <script>
+
+
+function BackgroundColor()
+{
+    var randomBackground = '#'+Math.floor(Math.random()*16777215).toString(16);
+    if(randomBackground.length != 7){ 
+        randomBackground = BackgroundColor();
+    }
+    return randomBackground;
+}
+document.body.style.backgroundColor = BackgroundColor() 
+
+
+
+    </script>
+
+<img src="./cat.png" alt="cat">
+  </body>
+</html>
